@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build && rm -rf docs && mv build docs",
+    "build": "react-app-rewired build && bin/add-try-catch.sh && rm -rf docs && mv build docs",
     "test": "react-app-rewired test"
   },
   "eslintConfig": {
