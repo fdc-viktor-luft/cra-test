@@ -1,12 +1,15 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useEffect } from 'react';
 import './App.css';
 
 const App: React.FC = () => {
+  useEffect(() => {
+    window.alert('Successfully mounted the App.')
+  }, []);
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="/logo512.png" className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
@@ -21,6 +24,6 @@ const App: React.FC = () => {
       </header>
     </div>
   );
-}
+};
 
 export default App;
