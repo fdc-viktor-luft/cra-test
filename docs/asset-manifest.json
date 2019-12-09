@@ -3,14 +3,14 @@
     "main.css": "/cra-test/static/css/main.d1b05096.chunk.css",
     "main.js": "/cra-test/static/js/main.5e3622b0.chunk.js",
     "runtime-main.js": "/cra-test/static/js/runtime-main.cbf8857a.js",
-    "static/js/2.fd51204e.chunk.js": "/cra-test/static/js/2.fd51204e.chunk.js",
+    "static/js/2.a9824a22.chunk.js": "/cra-test/static/js/2.a9824a22.chunk.js",
     "index.html": "/cra-test/index.html",
     "static/css/main.d1b05096.chunk.css.map": "/cra-test/static/css/main.d1b05096.chunk.css.map",
     "static/media/logo.svg": "/cra-test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cbf8857a.js",
-    "static/js/2.fd51204e.chunk.js",
+    "static/js/2.a9824a22.chunk.js",
     "static/css/main.d1b05096.chunk.css",
     "static/js/main.5e3622b0.chunk.js"
   ]
